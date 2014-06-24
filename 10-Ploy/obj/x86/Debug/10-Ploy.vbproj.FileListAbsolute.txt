@@ -1,0 +1,11 @@
+c:\users\aut9430\documents\visual studio 2010\Projects\10-Ploy\10-Ploy\bin\Debug\10-Ploy.exe
+c:\users\aut9430\documents\visual studio 2010\Projects\10-Ploy\10-Ploy\bin\Debug\10-Ploy.pdb
+c:\users\aut9430\documents\visual studio 2010\Projects\10-Ploy\10-Ploy\bin\Debug\10-Ploy.xml
+c:\users\aut9430\documents\visual studio 2010\Projects\10-Ploy\10-Ploy\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aut9430\documents\visual studio 2010\Projects\10-Ploy\10-Ploy\obj\x86\Debug\_10_Ploy.Resources.resources
+c:\users\aut9430\documents\visual studio 2010\Projects\10-Ploy\10-Ploy\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aut9430\documents\visual studio 2010\Projects\10-Ploy\10-Ploy\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aut9430\documents\visual studio 2010\Projects\10-Ploy\10-Ploy\obj\x86\Debug\10-Ploy.exe
+c:\users\aut9430\documents\visual studio 2010\Projects\10-Ploy\10-Ploy\obj\x86\Debug\10-Ploy.xml
+c:\users\aut9430\documents\visual studio 2010\Projects\10-Ploy\10-Ploy\obj\x86\Debug\10-Ploy.pdb
+c:\users\aut9430\documents\visual studio 2010\Projects\10-Ploy\10-Ploy\obj\x86\Debug\_10_Ploy.form_Main.resources
